@@ -1,8 +1,21 @@
-# `use-package`
+## NOTICE: This repository has been archived.
 
-[![Join the chat at https://gitter.im/use-package/Lobby](https://badges.gitter.im/use-package/Lobby.svg)](https://gitter.im/use-package/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://github.com/jwiegley/use-package/actions/workflows/test.yml/badge.svg)](https://github.com/jwiegley/use-package/actions)
-[![GNU ELPA](https://elpa.gnu.org/packages/use-package.svg)](https://elpa.gnu.org/packages/use-package.html)
+Since `use-package` is now a part of Emacs core, all development has
+moved there. If you have issues, feature suggestion, or code changes
+to propose, please make them to [emacs-devel mailing
+list](https://lists.gnu.org/mailman/listinfo/emacs-devel) or by
+running `M-x report-emacs-bug` from your Emacs.
+
+Outstanding issues and pull requests in this repository are being kept
+for reference, but they have NOT been proactively reported to the
+mailing list. If you are author of an issue or a pull request, that
+you would like to see integrated, please repeat your request through
+one of the means given above.
+
+Thank you all for your support and activity here on GitHub, I hope to
+see you again on the mailing list!
+
+# `use-package`
 
 The `use-package` macro allows you to isolate package configuration in your
 `.emacs` file in a way that is both performance-oriented and, well, tidy.  I
